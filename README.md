@@ -8,7 +8,7 @@ https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 
 This project relies heavily on some third party libraries. In order to use these files you have to install those libraries first. You can install the mentioned libraries by entering the following command in your terminal:
 
-```
+```python
 pip install -r requirements.txt
 ```
 
