@@ -1,7 +1,7 @@
-import nibabel as nib
-import numpy as np
-from stl import mesh
 from skimage import measure
+import nibabel as nib
+from stl import mesh
+import numpy as np
 
 
 def create_stl_file_from_nifti(file_path, output_name):
