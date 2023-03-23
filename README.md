@@ -1,6 +1,6 @@
 # BrainSegmentation
 
-This is a scientific in-progress work in collaboration with Tampere University, Finland, under the supervision of Prof. S. Pursiainen.
+This is a scientific in-progress work in collaboration with Tampere University, Finland, under the supervision of Dr. Samavaki & Prof. S. Pursiainen.
 
 ### Note: It is recommended to use this project in a virtual environment.
 
